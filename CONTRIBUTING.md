@@ -5,11 +5,11 @@
 ## 🚀 Как внести вклад
 
 ### 1. Fork репозитория
-1. Перейдите на [GitHub репозиторий](https://github.com/your-username/telegram-bot-moderator)
+1. Перейдите на [GitHub репозиторий](https://github.com/[ВАШ_USERNAME]/telegram-bot-moderator)
 2. Нажмите кнопку "Fork" в правом верхнем углу
 3. Склонируйте ваш fork локально:
    ```bash
-   git clone https://github.com/your-username/telegram-bot-moderator.git
+   git clone https://github.com/[ВАШ_USERNAME]/telegram-bot-moderator.git
    cd telegram-bot-moderator
    ```
 
